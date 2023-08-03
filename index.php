@@ -98,7 +98,8 @@
                     <div class="home-image text-center">
                         <!-- <img src="/img/v1.png" class="images-responsive rounded-circle" alt="images" width="70%"> -->
                         <h1 style="font-size: 200px; display: block; padding: 0; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-                            J</h1>
+                            </>
+                        </h1>
                     </div>
                 </div>
             </div>

@@ -2,17 +2,12 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Bootstrap CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Font Awesome -->
     <link href="vendor/fontawesome/css/all.min.css" rel="stylesheet" type="text/css">
-    <!-- Google Font -->
     <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">  -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap" rel="stylesheet">
-    <!-- Css -->
     <link rel="stylesheet" href="css/style.css">
     <!-- Scrollreveal -->
     <script src="https://unpkg.com/scrollreveal"></script>
@@ -24,8 +19,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top bg-opacity-50 px-3">
         <div class="container p-1">
             <a class="navbar-brand" href="#home">Jeckanderson</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
@@ -43,8 +37,7 @@
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-sm btn-outline-warning rounded-pill" href="asset/cv.pdf"
-                            target="_BLANK">Download CV</a>
+                        <a class="nav-link btn btn-sm btn-outline-warning rounded-pill" href="asset/cv.pdf" target="_BLANK">Download CV</a>
                     </li>
                     <!-- Dark Mode Menu -->
                     <li class="nav-item nav_btns d-flex align-items-center">
@@ -71,26 +64,22 @@
                             </a><br>
                         </div>
                         <div class="box-content mb-4">
-                            <a href="https://id-id.facebook.com" target="_BLANK"
-                                class="btn btn-outline-danger rounded-circle">
+                            <a href="https://id-id.facebook.com" target="_BLANK" class="btn btn-outline-danger rounded-circle">
                                 <i class="fab fa-facebook"></i>
                             </a><br>
                         </div>
                         <div class="box-content mb-4">
-                            <a href="https://instagram.com" target="_BLANK"
-                                class="btn btn-outline-danger rounded-circle">
+                            <a href="https://instagram.com" target="_BLANK" class="btn btn-outline-danger rounded-circle">
                                 <i class="fab fa-instagram"></i>
                             </a><br>
                         </div>
                         <div class="box-content mb-4">
-                            <a href="https://github.com/jeckrisen" target="_BLANK"
-                                class="btn btn-outline-danger rounded-circle">
+                            <a href="https://github.com/jeckrisen" target="_BLANK" class="btn btn-outline-danger rounded-circle">
                                 <i class="fab fa-github"></i>
                             </a>
                         </div>
                         <div class="box-content">
-                            <a href="https://telegram.com/jeckrisen" target="_BLANK"
-                                class="btn btn-outline-danger rounded-circle">
+                            <a href="https://telegram.com/jeckrisen" target="_BLANK" class="btn btn-outline-danger rounded-circle">
                                 <i class="fab fa-telegram-plane"></i>
                             </a>
                         </div>
@@ -100,22 +89,15 @@
                         <h1 class="font-weight-bold p-0 m-0"><strong class="text-secondary">Jeck Anderson</strong></h1>
                         <h6 class="pb-2 text-secondary">Junior <strong class="text-secondary">Web Developer</strong>
                         </h6>
-                        <p class="text-secondary paraf line-height">Saya adalah seorang Junior Web Developer PHP
-                            (Laravel) <!--  yang saat ini sedang mencari pekerjaan. <br>--> yang tertarik untuk
-                            mempelajari teknologi baru di bidang Web Programming,
-                            <!-- tertarik di bidang IT dan memiliki potensi di bidang Web Programming Saya selalu tertarik untuk mempelajari teknologi baru,-->
-                            dan ini adalah situs Web Portofolio saya untuk menunjukkan detail dari pekerjaan
-                            <!-- exiprins --><br> Pengembangan Web Developer
+                        <p class="text-secondary paraf line-height">Saya adalah seorang Junior Web Developer yang tertarik untuk mempelajari teknologi baru di bidang Web Programming, ini adalah situs Web Portofolio saya, untuk menunjukkan detail dari pekerjaan<br> Pengembangan Web Developer
                         </p>
-                        <a href="https://wa.me/08520078097" class="btn btn-outline-secondary rounded-pill"><i
-                                class="fab fa-whatsapp"></i> Hubungi saya</a>
+                        <a href="https://wa.me/08520078097" class="btn btn-outline-secondary rounded-pill"><i class="fab fa-whatsapp"></i> Hubungi saya</a>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="home-image text-center">
                         <!-- <img src="/img/v1.png" class="images-responsive rounded-circle" alt="images" width="70%"> -->
-                        <h1
-                            style="font-size: 200px; display: block; padding: 0; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+                        <h1 style="font-size: 200px; display: block; padding: 0; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
                             J</h1>
                     </div>
                 </div>
@@ -145,8 +127,7 @@
                         online.<!-- saya sedang mengembangkan Web dengan Bahasa Pemrograman PHP menggunakan Framework Laravel dan mengikuti course Pemrograman Web. -->
                         <!-- memiliki pengalaman magang di Instansi Dinas Kebudayaan dan Perikanan Yogyakarta -->
                     </p>
-                    <a href="asset/cv.pdf" target="_BLANK" class="btn btn-sm btn-outline-secondary rounded-pill"><i
-                            class="fas fa-arrow-down"></i> Download CV</a>
+                    <a href="asset/cv.pdf" target="_BLANK" class="btn btn-sm btn-outline-secondary rounded-pill"><i class="fas fa-arrow-down"></i> Download CV</a>
                 </div>
             </div>
         </div>
@@ -167,8 +148,7 @@
                         <div class="card-body">
                             <p class="card-text text-secondary paraf">Website portofolio untuk menunjukan detail dari
                                 pengembangan web, dapat dilihat di github secara open source</p>
-                            <a href="https://github.com/jeckrisen/jeckrisen.github.io"
-                                class="text-decoration-none">Kunjungi</a>
+                            <a href="https://github.com/jeckrisen/jeckrisen.github.io" class="text-decoration-none">Kunjungi</a>
                         </div>
                     </div>
                 </div>
@@ -178,8 +158,7 @@
                         <div class="card-body">
                             <p class="card-text text-secondary paraf">Sebuah website tugas Mahasiswa yaitu Website
                                 Sistem Informasi Pelayanan Desa, dapat di lihat di github secara open source</p>
-                            <a href="https://github.com/jeckrisen/sistem-informasi-kependudukan"
-                                class="text-decoration-none">Kunjungi</a>
+                            <a href="https://github.com/jeckrisen/sistem-informasi-kependudukan" class="text-decoration-none">Kunjungi</a>
                         </div>
                     </div>
                 </div>
@@ -252,7 +231,7 @@
     </section>
 
     <footer class="p-4 text-center text-white">
-        <div>&copy 2022 - Web Portofolio</div>
+        <div>&copy <?= date('Y'); ?> - Web Portofolio</div>
     </footer>
 
     <!-- Backto Top -->
